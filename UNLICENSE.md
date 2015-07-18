@@ -1,5 +1,5 @@
-To the extent possible under law, BlAcKhAt9(9 has waived all copyright and related or neighboring rights
-to this work by releasing under the Unlicense. BlAcKhAt9(9 has done this because they believe that copyright
+**To the extent possible under law, BlAcKhAt9(9 has waived all copyright and related or neighboring rights
+to this work by releasing under the Unlicense**. BlAcKhAt9(9 has done this because they believe that copyright
 is unethical and detrimental to society. You have no legal requirements whatsoever in using this software.
 You are free to use and copy it (modified or not) for any purpose.
 
@@ -9,16 +9,15 @@ such as the [Unlicense](http://www.unlicense.org) for software or the
 helps form a commons of truly free content.
 
 Even if you do not release your contributions under such a waiver, you are encouraged to release your modifications under an
-[Open Source license](http://opensource.org/licenses) such as the a GNU license (GPL, LGPL, AGPL, GFDL) or the
+[Open Source License](http://opensource.org/licenses) such as the a GNU license (GPL, LGPL, AGPL, GFDL) or the
 [Apache license](https://www.apache.org/licenses/LICENSE-2.0.html). For more help choosing an open license or waiver, visit
 (http://choosealicense.com/).
 
 That said, **feel free to do whatever you want with the software**.
 
-Attribution is welcome, but in no way required or suggested.
+*Attribution is welcome, but in no way required or requested*.
 
-Abything that has ever touched this repo is dual-released under the following licenses: the Unlicense and the CC0.
-If you contribute to this repo, you agree to release all your contributions under both of the following:
+Anything that has ever touched this repo is dual-released under the following licenses: the Unlicense and the CC0. If you contribute to this repo, you agree to release all your contributions under both of the following:
 -------------------------------------------------------------------------------------------------
 
 FULL TEXT OF THE UNLICENSE
@@ -47,6 +46,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 For more information, please refer to <http://unlicense.org>
+
 ---------------------------------------------------------------------------------------------------
 
 FULL TEXT OF THE CC0 1.0 RIGHTS WAIVER
