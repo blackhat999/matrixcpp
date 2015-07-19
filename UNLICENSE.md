@@ -1,7 +1,7 @@
 **To the extent possible under law, BlAcKhAt9(9 has waived all copyright and related or neighboring rights
 to this work by releasing under the Unlicense**. BlAcKhAt9(9 has done this because they believe that copyright
-is unethical and detrimental to society. You have no legal requirements whatsoever in using this software.
-You are free to use and copy it (modified or not) for any purpose.
+is unethical and detrimental to society. **You have no legal requirements whatsoever in using this software.
+You are free to use and copy it (modified or not) for any purpose.**
 
 However, BlAcKhAt9(9 would like you to know that sharing your work under a copyright waiver, 
 such as the [Unlicense](http://www.unlicense.org) for software or the
@@ -175,4 +175,4 @@ express Statement of Purpose.
 
 ---------------------------------------------------------------------------------------------------
 
-Enjoy!
+**Enjoy!**

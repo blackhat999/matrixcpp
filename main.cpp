@@ -24,18 +24,12 @@ void main(int argc){
     
     if(argc == 3 || argc == 2)
     else{
-    cout << "Please enter the first matrix: "
-    cin >> Matrix m1;
-    cin >> char op;
-    cin >> Matrix m2;
-    cout << opParse()
+    std::cout << "Please enter the first matrix: "
+    std::cin >> Matrix m1;
+    std::cin >> char op;
+    std::cin >> Matrix m2;
+    std::cout << opParse()
     }
 }
 
-template<class C> class Matrix{ //used template to allow selection of float, double, int, or long matrix
-private:
-C **data;
-int rows, cols;
-public:
 
-}
